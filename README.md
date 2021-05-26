@@ -1,13 +1,14 @@
 ![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
 # Project Name
 N.E.P.A
+
 ##Team members
 1. Arun H 
 2. Akshi TR
 ## Team Id
 BFH/recdV2joru2dStnrM/2021
 
-[link to video]
+https://drive.google.com/file/d/1O7BcQzpUDybeZUaGQfPUHHF6NfZAFizJ/view?usp=drivesdk
 ## How it Works ?
 1. Step 1 you need to enter your login information or reg your name and create an account using name mail I'd password 
 2. Step 2 you can add event using the button provided in it
